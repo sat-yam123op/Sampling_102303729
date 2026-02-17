@@ -1,7 +1,7 @@
 # Sampling Techniques on Imbalanced Credit Card Dataset
 
-**Name:** Sneha Goswami  
-**Roll Number:** 102303723  
+**Name:** Satyam Gupta  
+**Roll Number:** 102303729  
 
 ---
 
